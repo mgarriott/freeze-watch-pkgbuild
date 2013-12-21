@@ -1,7 +1,7 @@
 # Maintainer: Matt Garriott <matt.garriott at gmail dot com>
 pkgname=freeze-watch
 pkgver=1.0.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Get email alerts when the temperature is predicted to drop below a set point"
 arch=('any')
 url="https://github.com/mgarriott/FreezeWatch"
