@@ -8,6 +8,7 @@ url="https://github.com/mgarriott/FreezeWatch"
 license=('custom:BSD2')
 depends=('ruby' 'ruby-bundler')
 makedepends=()
+install="$pkgname.install"
 backup=('etc/freezewatch.yaml')
 source=("https://github.com/mgarriott/FreezeWatch/archive/v$pkgver.tar.gz")
 md5sums=('559af4ddd9cafc1fac3f789e70b33f3b')
